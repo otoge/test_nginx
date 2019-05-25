@@ -1,10 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="81a2ffa6-fe56-4c17-8747-395cfe291927" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/superlists/settings.py" beforeDir="false" afterPath="$PROJECT_DIR$/superlists/settings.py" afterDir="false" />
-    </list>
+    <list default="true" id="81a2ffa6-fe56-4c17-8747-395cfe291927" name="Default Changelist" comment="" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -54,18 +51,24 @@
         </counts>
       </usages-collector>
     </session>
+    <session id="-1689892477">
+      <usages-collector id="statistics.lifecycle.project">
+        <counts>
+          <entry key="project.open.time.4" value="1" />
+          <entry key="project.opened" value="1" />
+        </counts>
+      </usages-collector>
+    </session>
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="false">
+      <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/functional_tests/tests.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="2091">
-              <caret line="128" column="65" selection-start-line="128" selection-start-column="65" selection-end-line="128" selection-end-column="65" />
+            <state relative-caret-position="255">
+              <caret line="15" column="61" selection-start-line="15" selection-start-column="61" selection-end-line="15" selection-end-column="61" />
               <folding>
                 <element signature="e#0#30#0" expanded="true" />
-                <marker date="1556713108273" expanded="true" signature="3241:3246" ph="..." />
-                <marker date="1556713108273" expanded="true" signature="5119:5128" ph="..." />
               </folding>
             </state>
           </provider>
@@ -78,24 +81,16 @@
               <caret line="59" column="3" selection-start-line="59" selection-start-column="3" selection-end-line="59" selection-end-column="3" />
               <folding>
                 <element signature="e#0#31#0" expanded="true" />
-                <marker date="1556637786761" expanded="true" signature="202:204" ph="..." />
-                <marker date="1556637786761" expanded="true" signature="259:264" ph="..." />
-                <marker date="1556637786761" expanded="true" signature="570:1080" ph="..." />
-                <marker date="1556637786761" expanded="true" signature="1668:1677" ph="..." />
-                <marker date="1556637786761" expanded="true" signature="2537:2690" ph="..." />
-                <marker date="1556637786761" expanded="true" signature="4178:4187" ph="..." />
-                <marker date="1556637786761" expanded="true" signature="4737:4746" ph="..." />
-                <marker date="1556637786761" expanded="true" signature="5242:5251" ph="..." />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/lists/models.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="170">
-              <caret line="10" selection-start-line="10" selection-end-line="10" />
+            <state relative-caret-position="119">
+              <caret line="7" selection-start-line="7" selection-end-line="7" />
             </state>
           </provider>
         </entry>
@@ -156,7 +151,7 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/lists/urls.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="119">
+            <state relative-caret-position="102">
               <caret line="8" selection-start-line="8" selection-end-line="8" />
               <folding>
                 <element signature="e#0#32#0" expanded="true" />
@@ -188,11 +183,11 @@
         <option value="$PROJECT_DIR$/lists/tests.py" />
         <option value="$PROJECT_DIR$/lists/views.py" />
         <option value="$PROJECT_DIR$/lists/templates/home.html" />
-        <option value="$PROJECT_DIR$/functional_tests/tests.py" />
         <option value="$PROJECT_DIR$/lists/templates/list.html" />
         <option value="$PROJECT_DIR$/lists/templates/base.html" />
         <option value="$PROJECT_DIR$/lists/static/base.css" />
         <option value="$PROJECT_DIR$/superlists/settings.py" />
+        <option value="$PROJECT_DIR$/functional_tests/tests.py" />
       </list>
     </option>
   </component>
@@ -210,49 +205,23 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
             <path>
-              <item name="superlists" type="b2602c69:ProjectViewProjectNode" />
-              <item name="superlists" type="462c0819:PsiDirectoryNode" />
+              <item name="chap8" type="b2602c69:ProjectViewProjectNode" />
+              <item name="chap8" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
-              <item name="superlists" type="b2602c69:ProjectViewProjectNode" />
-              <item name="superlists" type="462c0819:PsiDirectoryNode" />
+              <item name="chap8" type="b2602c69:ProjectViewProjectNode" />
+              <item name="chap8" type="462c0819:PsiDirectoryNode" />
               <item name="functional_tests" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="superlists" type="b2602c69:ProjectViewProjectNode" />
-              <item name="superlists" type="462c0819:PsiDirectoryNode" />
-              <item name="lists" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="superlists" type="b2602c69:ProjectViewProjectNode" />
-              <item name="superlists" type="462c0819:PsiDirectoryNode" />
-              <item name="lists" type="462c0819:PsiDirectoryNode" />
-              <item name="static" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="superlists" type="b2602c69:ProjectViewProjectNode" />
-              <item name="superlists" type="462c0819:PsiDirectoryNode" />
-              <item name="lists" type="462c0819:PsiDirectoryNode" />
-              <item name="templates" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="superlists" type="b2602c69:ProjectViewProjectNode" />
-              <item name="superlists" type="462c0819:PsiDirectoryNode" />
-              <item name="superlists" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="superlists" type="b2602c69:ProjectViewProjectNode" />
-              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
             </path>
           </expand>
           <select />
         </subPane>
       </pane>
-      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -375,9 +344,9 @@
     </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="993" y="3" width="851" height="1061" extended-state="1" />
+    <frame x="993" y="10" width="851" height="1054" extended-state="0" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.27990136" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.27990136" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
@@ -388,7 +357,7 @@
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" weight="0.3293979" />
       <window_info anchor="bottom" id="Version Control" order="7" sideWeight="0.49938348" weight="0.32790446" />
-      <window_info active="true" anchor="bottom" id="Terminal" order="8" sideWeight="0.49938348" visible="true" weight="0.31921825" />
+      <window_info anchor="bottom" id="Terminal" order="8" sideWeight="0.49938348" visible="true" weight="0.31947485" />
       <window_info anchor="bottom" id="Event Log" order="9" sideWeight="0.50061655" side_tool="true" weight="0.31813246" />
       <window_info anchor="bottom" id="Python Console" order="10" weight="0.32821724" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
@@ -431,32 +400,12 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/functional_tests/tests.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="2091">
-          <caret line="128" column="65" selection-start-line="128" selection-start-column="65" selection-end-line="128" selection-end-column="65" />
-          <folding>
-            <element signature="e#0#30#0" expanded="true" />
-            <marker date="1556713108273" expanded="true" signature="3241:3246" ph="..." />
-            <marker date="1556713108273" expanded="true" signature="5119:5128" ph="..." />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/lists/tests.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="935">
           <caret line="59" column="3" selection-start-line="59" selection-start-column="3" selection-end-line="59" selection-end-column="3" />
           <folding>
             <element signature="e#0#31#0" expanded="true" />
-            <marker date="1556637786761" expanded="true" signature="202:204" ph="..." />
-            <marker date="1556637786761" expanded="true" signature="259:264" ph="..." />
-            <marker date="1556637786761" expanded="true" signature="570:1080" ph="..." />
-            <marker date="1556637786761" expanded="true" signature="1668:1677" ph="..." />
-            <marker date="1556637786761" expanded="true" signature="2537:2690" ph="..." />
-            <marker date="1556637786761" expanded="true" signature="4178:4187" ph="..." />
-            <marker date="1556637786761" expanded="true" signature="4737:4746" ph="..." />
-            <marker date="1556637786761" expanded="true" signature="5242:5251" ph="..." />
           </folding>
         </state>
       </provider>
@@ -504,7 +453,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/lists/urls.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="119">
+        <state relative-caret-position="102">
           <caret line="8" selection-start-line="8" selection-end-line="8" />
           <folding>
             <element signature="e#0#32#0" expanded="true" />
@@ -514,8 +463,18 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/lists/models.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="170">
-          <caret line="10" selection-start-line="10" selection-end-line="10" />
+        <state relative-caret-position="119">
+          <caret line="7" selection-start-line="7" selection-end-line="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/functional_tests/tests.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="255">
+          <caret line="15" column="61" selection-start-line="15" selection-start-column="61" selection-end-line="15" selection-end-column="61" />
+          <folding>
+            <element signature="e#0#30#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
